@@ -1,12 +1,11 @@
 
-
 README:
 1) The descrbed Task
 2) Implementation
 
 ====================================================================================================
 
-The Task:       
+1)The Task:       
                
 Implement a binomial queue (bq) linked with a hash-table. You can use code 
 provided in the textbook. The bq is used for fast access of the minimum element and the hash-table 
@@ -57,8 +56,8 @@ to modify the merge() function and make it specific to the merging of one elemen
 =================================================================================================
 
 
-ReadMe
-Author: Brian Sabbeth
+2) Implementation
+
 To compile: make all
     To run: ./a4
 --------------------------------------------------------------------------------
